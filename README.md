@@ -25,16 +25,6 @@ multiplié par le taux horaire
 - de 169 à 180 heures : le taux horaire est majoré de 50 %
 - au-delà de 180 heures : le taux horaire est majoré de 60 %
 
-Calcul des cotisations salariales:
-1. Contribution pour le Remboursement de la Dette Sociale et Contribution SOciale Généralisée imposable : Salire net (€) * 3.49%
-2. Contribution Sociale Généralisée non imposable : Salaire net (€) * 6.15%  
-3. Assurance maladie : Salaire net (€) * 0.95%  
-4. Assurance vieillesse : Salaire net (€) * 8.44%  
-5. Assurance chômage : Salaire net (€) * 3.05%  
-6. Retraite complémentaire (IRCEM) : Salaire net (€) * 3.81%  
-7. Cotisation AGFF : Salaire net (€) * 1.02%  
-TOTAL DES COTISATIONS SALARIALES : 1 + 2 + 3 + 4 + 5 + 6 + 7 (€)
-
  ![salaire](salaire.png) 
 
 Calcul du salaire à verser :
