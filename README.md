@@ -35,6 +35,7 @@ Calcul des cotisations salariales:
 7. Cotisation AGFF : Salaire net (€) * 1.02%  
 TOTAL DES COTISATIONS SALARIALES : 1 + 2 + 3 + 4 + 5 + 6 + 7 (€)
 
+ ![salaire](salaire.png) 
 
 Calcul du salaire à verser :
 La prime est calculée en fonction du nombre d’enfants selon les règles suivantes :  
